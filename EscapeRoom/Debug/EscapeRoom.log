@@ -1,0 +1,3 @@
+﻿  EscapeRoom.cpp
+C:\Users\Adam McDonnell\Documents\Work\University\Year2\OOP\Assignment\EscapeRoom\EscapeRoom\PuzzleClass.cpp(23,48): warning C4305: 'initializing': truncation from 'bool (__cdecl *)(void)' to 'bool'
+  EscapeRoom.vcxproj -> C:\Users\Adam McDonnell\Documents\Work\University\Year2\OOP\Assignment\EscapeRoom\Debug\EscapeRoom.exe

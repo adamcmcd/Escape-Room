@@ -1,0 +1,2 @@
+YellowRoom: 100$Bill, SafeWith6Digits, ObscureButton, EgyptianSymbolsPattern, MapLocation, MarbleInWater, CodeEncryption
+RedRoom: BookName, MorseCode, SoundSequence, ClueOnATapeCassette, MapLocation, WalkieTalki, MirroredMessage
